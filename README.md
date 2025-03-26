@@ -2,7 +2,7 @@
 
 <br />
 
-- 🔭 I am currently a student
+- 🔭 I am currently a Computer Engineering student
 - 🌱 I am currently learning JavaFX (UI), Java and Oracle SQL
 
 <br />
