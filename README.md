@@ -3,7 +3,7 @@
 <br />
 
 - 🔭 I am currently a Computer Engineering student
-- 🌱 I am currently learning JavaFX (UI), Java and Oracle SQL
+- 🌱 I am currently learning JavaFX (UI), Java ,Spring Boot and Oracle SQL
 
 <br />
 
