@@ -1,24 +1,66 @@
-<h1 align="center">Hi, I'm Yunus Emre 👋</h1>
+# 👋 Merhaba, ben Yunus Emre!
 
-<br />
+Ben **Erzurum Teknik Üniversitesi Bilgisayar Mühendisliği 2. sınıf** öğrencisiyim. Yazılım geliştirmeyi, yeni teknolojileri keşfetmeyi ve kendimi her gün biraz daha geliştirmeyi seviyorum. Şu anda özellikle **Java**, **Web Development** ve masaüstü uygulamalarla ilgileniyorum.
 
-- 🔭 I am currently a Computer Engineering student
-- 🌱 I am currently learning JavaFX (UI), Java ,Spring Boot and Oracle SQL
+---
 
-<br />
+## 🚀 Yeteneklerim
 
-<h3 align="left">Connect with me:</h3>
+- 💻 Java
+- 🧠 Nesne Yönelimli Programlama (OOP)
+- 🖥️ Masaüstü Uygulamalar (JavaFX)
+- 🌐 Web Geliştirme (Frontend temelli)
+- 🗃️ Veritabanı: MySQL, Oracle SQL (öğrenmeye devam ediyorum)
+- 📦 Git ve GitHub
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yunus-emre-karaman-a2947331b/)   [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emreEngineering)   
-<br />
+---
 
-<h3 align="left">Languages and Tools:</h3>
+## 📚 Eğitim
 
+🎓 **Erzurum Teknik Üniversitesi**
+> Bilgisayar Mühendisliği | 2. Sınıf  
+> 202X – Devam ediyor
 
-<img align="left"  alt="java" width="40px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" />
+---
 
-<img align="left" alt="Git" width="40px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/git_original_wordmark_logo_icon_146510.png" />
+## 🛠️ Yaptığım Projeler
 
-<img align="left" alt="Oracle SQL" width="40px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" />
+### 📌 Hesap Makinesi
+- JavaFX ile masaüstü hesap makinesi geliştirdim.
+- Basit dört işlem yapabilen, sade ve kullanıcı dostu bir arayüze sahip.
+- 🔗 [Projeye Git](https://github.com/emreEngineering/calculator-v1)
 
+---
 
+### 📌 Depo ve Lojistik Yönetim Sistemi
+- Ürün giriş/çıkış, stok takibi ve kullanıcı yetkilendirmesi gibi işlemleri yönetebilen bir sistem.
+- JavaFX arayüzü ve MySQL veritabanı ile geliştirildi.
+- 🔗 [Projeye Git](https://github.com/emreEngineering/management-system-v1)
+
+---
+
+### 📌 Kronometre
+- JavaFX ile masaüstü bir kronometre uygulaması yaptım.
+- Başlat, durdur ve sıfırla özelliklerine sahip basit bir sayaç.
+- 🔗 [Projeye Git](https://github.com/emreEngineering/chronometre-javafx)
+
+---
+
+## 🌱 Öğrenmekte Olduğum Teknolojiler
+
+- 🌐 Spring Boot (Java ile web uygulamaları için)
+- 📡 API kullanımı ve REST mimarisi
+- ☁️ Bulut teknolojileri ve deployment
+- 📘 Veri Yapıları ve Algoritmalar
+
+---
+
+## 📫 Bana Ulaş
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/emreEngineering)  
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emreEngineering)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seninmailin@gmail.com)
+
+---
+
+> 💬 Her zaman yeni projelere ve iş birliklerine açığım. Açık kaynak dünyasında katkı sağlamak istiyorum. Profilime göz attığın için teşekkür ederim! 😊
