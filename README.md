@@ -58,7 +58,7 @@ Ben **Erzurum Teknik Üniversitesi Bilgisayar Mühendisliği 2. sınıf** öğre
 ## 📫 Bana Ulaş
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yunus-emre-karaman-a2947331b/)  
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emreEngineering)  
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emreEngineering?tab=repositories)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emre884k@gmail.com)
 
 ---
