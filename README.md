@@ -1,7 +1,7 @@
 <h1>👋 Merhaba, ben Yunus Emre!</h1>
 
 <p>
-Ben <strong>Erzurum Teknik Üniversitesi Bilgisayar Mühendisliği 2. sınıf</strong> öğrencisiyim. Yazılım geliştirmeyi, yeni teknolojileri keşfetmeyi ve kendimi her gün biraz daha geliştirmeyi seviyorum. Şu anda özellikle <strong>Java</strong>, <strong>Web Development</strong> ve masaüstü uygulamalarla ilgileniyorum.
+Ben <strong>Erzurum Teknik Üniversitesi Bilgisayar Mühendisliği 2. sınıf</strong> öğrencisiyim ama Kocaelide ikamet etmekteyim. Yazılım geliştirmeyi, yeni teknolojileri keşfetmeyi ve kendimi her gün biraz daha geliştirmeyi seviyorum. Şu anda özellikle <strong>Java</strong>, <strong>Web Development</strong> ve masaüstü uygulamalarla ilgileniyorum.
 </p>
 
 ---
