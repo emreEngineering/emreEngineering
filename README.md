@@ -46,6 +46,13 @@ Ben **Erzurum Teknik Üniversitesi Bilgisayar Mühendisliği 2. sınıf** öğre
 
 ---
 
+### 📌 Veri Yapıları Ve Algoritmaları
+- Linked List 🔗 [Projeye Git](https://github.com/emreEngineering/LinkedList)
+- Stack 🔗 [Projeye Git](https://github.com/emreEngineering/Stack)
+- Queue 🔗 [Projeye Git](https://github.com/emreEngineering/Queue)
+
+---
+
 ## 🌱 Öğrenmekte Olduğum Teknolojiler
 
 - 🌐 Spring Boot (Java ile web uygulamaları için)
