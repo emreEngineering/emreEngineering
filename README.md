@@ -1,25 +1,31 @@
-# 👋 Merhaba, ben Yunus Emre!
+<h1>👋 Merhaba, ben Yunus Emre!</h1>
 
-Ben **Erzurum Teknik Üniversitesi Bilgisayar Mühendisliği 2. sınıf** öğrencisiyim. Yazılım geliştirmeyi, yeni teknolojileri keşfetmeyi ve kendimi her gün biraz daha geliştirmeyi seviyorum. Şu anda özellikle **Java**, **Web Development** ve masaüstü uygulamalarla ilgileniyorum.
+<p>
+Ben <strong>Erzurum Teknik Üniversitesi Bilgisayar Mühendisliği 2. sınıf</strong> öğrencisiyim. Yazılım geliştirmeyi, yeni teknolojileri keşfetmeyi ve kendimi her gün biraz daha geliştirmeyi seviyorum. Şu anda özellikle <strong>Java</strong>, <strong>Web Development</strong> ve masaüstü uygulamalarla ilgileniyorum.
+</p>
 
 ---
 
 ## 🚀 Yeteneklerim
 
-- 💻 Java
-- 🧠 Nesne Yönelimli Programlama (OOP)
-- 🖥️ Masaüstü Uygulamalar (JavaFX)
-- 🌐 Web Geliştirme (Frontend temelli)
-- 🗃️ Veritabanı: MySQL, Oracle SQL (öğrenmeye devam ediyorum)
-- 📦 Git ve GitHub
+- 💻 Java  
+- 🧠 Nesne Yönelimli Programlama (OOP)  
+- 🖥️ Masaüstü Uygulamalar  
+  - JavaFX ile modern UI tasarımı  
+- 🌐 Web Geliştirme  
+  - HTML, CSS, JavaScript (Temel düzeyde)  
+- 🗃️ Veritabanı: MySQL, Oracle SQL (öğrenmeye devam ediyorum)  
+- 📦 Git ve GitHub  
 
 ---
 
 ## 📚 Eğitim
 
-🎓 **Erzurum Teknik Üniversitesi**
-> Bilgisayar Mühendisliği | 2. Sınıf  
-> 202X – Devam ediyor
+🎓 <strong>Erzurum Teknik Üniversitesi</strong>  
+<blockquote>
+Bilgisayar Mühendisliği | 2. Sınıf  
+202X – Devam ediyor
+</blockquote>
 
 ---
 
@@ -27,46 +33,56 @@ Ben **Erzurum Teknik Üniversitesi Bilgisayar Mühendisliği 2. sınıf** öğre
 
 ### 📌 Hesap Makinesi
 - JavaFX ile masaüstü hesap makinesi geliştirdim.
-- Basit dört işlem yapabilen, sade ve kullanıcı dostu bir arayüze sahip.
-- 🔗 [Projeye Git](https://github.com/emreEngineering/calculator-v1)
+- Basit dört işlem yapabilen, sade ve kullanıcı dostu bir arayüze sahip.  
+- 🔗 <a href="https://github.com/emreEngineering/calculator-v1" target="_blank">Projeye Git</a>
 
 ---
 
 ### 📌 Depo ve Lojistik Yönetim Sistemi
 - Ürün giriş/çıkış, stok takibi ve kullanıcı yetkilendirmesi gibi işlemleri yönetebilen bir sistem.
 - JavaFX arayüzü ve MySQL veritabanı ile geliştirildi.
-- 🔗 [Projeye Git](https://github.com/emreEngineering/management-system-v1)
+- JDBC ile veritabanı bağlantısı, kullanıcı girişi/yetkilendirme gibi özellikler içeriyor.  
+- 🔗 <a href="https://github.com/emreEngineering/management-system-v1" target="_blank">Projeye Git</a>
 
 ---
 
 ### 📌 Kronometre
 - JavaFX ile masaüstü bir kronometre uygulaması yaptım.
-- Başlat, durdur ve sıfırla özelliklerine sahip basit bir sayaç.
-- 🔗 [Projeye Git](https://github.com/emreEngineering/chronometre-javafx)
+- Başlat, durdur ve sıfırla özelliklerine sahip basit bir sayaç.  
+- 🔗 <a href="https://github.com/emreEngineering/chronometre-javafx" target="_blank">Projeye Git</a>
 
 ---
 
-### 📌 Veri Yapıları Ve Algoritmaları
-- Linked List 🔗 [Projeye Git](https://github.com/emreEngineering/LinkedList)
-- Stack 🔗 [Projeye Git](https://github.com/emreEngineering/Stack)
-- Queue 🔗 [Projeye Git](https://github.com/emreEngineering/Queue)
+### 📌 Veri Yapıları ve Algoritmalar
+
+- 🔗 <a href="https://github.com/emreEngineering/LinkedList" target="_blank">Linked List</a>  
+- 🔗 <a href="https://github.com/emreEngineering/Stack" target="_blank">Stack</a>  
+- 🔗 <a href="https://github.com/emreEngineering/Queue" target="_blank">Queue</a>
 
 ---
 
 ## 🌱 Öğrenmekte Olduğum Teknolojiler
 
-- 🌐 Spring Boot (Java ile web uygulamaları için)
-- 📡 API kullanımı ve REST mimarisi
-- ☁️ Bulut teknolojileri ve deployment
-- 📘 Veri Yapıları ve Algoritmalar
+- 🌐 Spring Boot (Java ile web uygulamaları için)  
+- 📡 API kullanımı ve REST mimarisi  
+- ☁️ Bulut teknolojileri ve deployment  
+- 📘 Veri Yapıları ve Algoritmalar  
 
 ---
 
 ## 📫 Bana Ulaş
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yunus-emre-karaman-a2947331b/)  
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emreEngineering?tab=repositories)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emre884k@gmail.com)
+<a href="https://www.linkedin.com/in/yunus-emre-karaman-a2947331b/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="https://github.com/emreEngineering?tab=repositories" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+<a href="mailto:emre884k@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
 
 ---
 
