@@ -84,6 +84,10 @@ Bilgisayar Mühendisliği | 2. Sınıf
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
 
+<a href="https://emrekaraman.glitch.me/" target="_blank">
+  <img src="https://img.shields.io/badge/Web%20Sitesi-00C7B7?style=for-the-badge&logo=glitch&logoColor=white" alt="Web Sitesi">
+</a>
+
 ---
 
 > 💬 Her zaman yeni projelere ve iş birliklerine açığım. Açık kaynak dünyasında katkı sağlamak istiyorum. Profilime göz attığın için teşekkür ederim! 😊
