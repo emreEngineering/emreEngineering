@@ -29,38 +29,6 @@ Bilgisayar Mühendisliği | 2. Sınıf
 
 ---
 
-## 🛠️ Yaptığım Projeler
-
-### 📌 Hesap Makinesi
-- JavaFX ile masaüstü hesap makinesi geliştirdim.
-- Basit dört işlem yapabilen, sade ve kullanıcı dostu bir arayüze sahip.  
-- 🔗 <a href="https://github.com/emreEngineering/calculator-v1" target="_blank">Projeye Git</a>
-
----
-
-### 📌 Depo ve Lojistik Yönetim Sistemi
-- Ürün giriş/çıkış, stok takibi ve kullanıcı yetkilendirmesi gibi işlemleri yönetebilen bir sistem.
-- JavaFX arayüzü ve MySQL veritabanı ile geliştirildi.
-- JDBC ile veritabanı bağlantısı, kullanıcı girişi/yetkilendirme gibi özellikler içeriyor.  
-- 🔗 <a href="https://github.com/emreEngineering/management-system-v1" target="_blank">Projeye Git</a>
-
----
-
-### 📌 Kronometre
-- JavaFX ile masaüstü bir kronometre uygulaması yaptım.
-- Başlat, durdur ve sıfırla özelliklerine sahip basit bir sayaç.  
-- 🔗 <a href="https://github.com/emreEngineering/chronometre-javafx" target="_blank">Projeye Git</a>
-
----
-
-### 📌 Veri Yapıları ve Algoritmalar
-
-- 🔗 <a href="https://github.com/emreEngineering/LinkedList" target="_blank">Linked List</a>  
-- 🔗 <a href="https://github.com/emreEngineering/Stack" target="_blank">Stack</a>  
-- 🔗 <a href="https://github.com/emreEngineering/Queue" target="_blank">Queue</a>
-
----
-
 ## 🌱 Öğrenmekte Olduğum Teknolojiler
 
 - 🌐 Spring Boot (Java ile web uygulamaları için)  
