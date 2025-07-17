@@ -97,17 +97,24 @@
 
 <div align="center">
 
-<!-- Otomatik Tüm Repository Listesi -->
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=emreEngineering&repo=ConsoleBankingSystem-v1&theme=radical&hide_border=true" width="350">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=emreEngineering&repo=weather-app-v1&theme=radical&hide_border=true" width="350">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=emreEngineering&repo=calculator-v1&theme=radical&hide_border=true" width="350">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=emreEngineering&repo=management-system-v1&theme=radical&hide_border=true" width="350">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=emreEngineering&repo=chronometre-javafx&theme=radical&hide_border=true" width="350">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=emreEngineering&repo=Queue&theme=radical&hide_border=true" width="350">
-
-
+<a href="https://github.com/emreEngineering/ConsoleBankingSystem-v1" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=emreEngineering&repo=ConsoleBankingSystem-v1&theme=radical&hide_border=true" width="350"> 
+</a>
+<a href="https://github.com/emreEngineering/weather-app-v1" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=emreEngineering&repo=weather-app-v1&theme=radical&hide_border=true" width="350">
+</a>
+<a href="https://github.com/emreEngineering/calculator-v1" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=emreEngineering&repo=calculator-v1&theme=radical&hide_border=true" width="350">
+</a> 
+<a href="https://github.com/emreEngineering/management-system-v1" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=emreEngineering&repo=management-system-v1&theme=radical&hide_border=true" width="350"> 
+</a>
+<a href="https://github.com/emreEngineering/chronometre-javafx" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=emreEngineering&repo=chronometre-javafx&theme=radical&hide_border=true" width="350"> 
+</a> 
+<a href="https://github.com/emreEngineering/Queue" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=emreEngineering&repo=Queue&theme=radical&hide_border=true" width="350"> 
+</a>
 <!-- Bu widget otomatik olarak tüm public repository'leri listeler -->
 <br clear="both"/>
 
