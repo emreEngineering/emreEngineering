@@ -1,4 +1,4 @@
-# 👋 Merhaba, Ben Emre!
+#  Merhaba, Ben Emre!
 
 <br clear="both"/>
 <div align="center">
@@ -17,17 +17,17 @@
 </div>
 <br clear="both"/>
 
-## 🎓 Hakkımda
+##  Hakkımda
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-🎯 **Erzurum Teknik Üniversitesi** Bilgisayar Mühendisliği öğrencisiyim (2023-202X)
+ **Erzurum Teknik Üniversitesi** Bilgisayar Mühendisliği öğrencisiyim (2023-202X)
 
-💡 Yazılım geliştirmeyi, yeni teknolojileri keşfetmeyi ve kendimi her gün biraz daha geliştirmeyi seviyorum
+ Yazılım geliştirmeyi, yeni teknolojileri keşfetmeyi ve kendimi her gün biraz daha geliştirmeyi seviyorum
 
-🚀 Şu anda özellikle **Java**, **Web Development** ve **masaüstü uygulamalarla** ilgileniyorum
+ Şu anda özellikle **Java**, **Web Development** ve **masaüstü uygulamalarla** ilgileniyorum
 
-🌟 Açık kaynak dünyasında katkı sağlamak ve yeni projeler geliştirmek istiyorum
+ Açık kaynak dünyasında katkı sağlamak ve yeni projeler geliştirmek istiyorum
 
 <br clear="both"/>
 <br clear="both"/>
@@ -39,7 +39,7 @@
 <br clear="both"/>
 <br clear="both"/>
 
-## 🛠️ Teknolojiler & Araçlar
+##  Teknolojiler & Araçlar
 
 <br clear="both"/>
 <br clear="both"/>
@@ -67,7 +67,7 @@
 
 
 
-## 🌐 Sosyal Medya & İletişim
+##  Sosyal Medya & İletişim
 
 <div align="center">
 
@@ -109,16 +109,16 @@
 
 
 
-## 💡 Katkıda Bulunmak İstiyorsanız
+##  Katkıda Bulunmak İstiyorsanız
 
 **Projelerime katkıda bulunmak isterseniz:**
 
-- 🍴 **Fork** edin
-- 🌿 **Branch** oluşturun (`git checkout -b feature/AmazingFeature`)
-- 💻 **Geliştirme** yapın
-- 📝 **Commit** edin (`git commit -m 'Add some AmazingFeature'`)
-- 🔄 **Push** edin (`git push origin feature/AmazingFeature`)
-- 🔀 **Pull Request** oluşturun
+-  **Fork** edin
+-  **Branch** oluşturun (`git checkout -b feature/AmazingFeature`)
+-  **Geliştirme** yapın
+-  **Commit** edin (`git commit -m 'Add some AmazingFeature'`)
+-  **Push** edin (`git push origin feature/AmazingFeature`)
+-  **Pull Request** oluşturun
 
 <br clear="both"/>
 
@@ -126,7 +126,7 @@
 
 <br clear="both"/>
 
-### 📊 Profile Views
+###  Profile Views
 
 <br clear="both"/>
 
