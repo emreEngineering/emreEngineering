@@ -2,7 +2,7 @@
 
 <br clear="both"/>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&height=70&lines=Bilgisayar+M%C3%BChendisli%C4%9Fi+%C3%96%C4%9Frencisi;Java+Geli%C5%9Ftirici;Web+Geli%C5%9Ftirme+Merakl%C4%B1s%C4%B1;Blender+3D+Modelleme;A%C3%A7%C4%B1k+Kaynak+Katk%C4%B1c%C4%B1s%C4%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&height=70&lines=Bilgisayar+Mühendisliği+Öğrencisi;Java+Ve+Go;Blender+3D+Modelleme;Açık+Kaynak+Projeler" alt="Typing SVG" />
 </div>
 
 <br clear="both"/>
@@ -25,7 +25,7 @@
 
  Yazılım geliştirmeyi, yeni teknolojileri keşfetmeyi ve kendimi her gün biraz daha geliştirmeyi seviyorum
 
- Şu anda özellikle **Java**, **Web Development** ve **masaüstü uygulamalarla** ilgileniyorum
+ Şu anda özellikle **Java**, **Go** ve **masaüstü uygulamalarla** ilgileniyorum
 
  Açık kaynak dünyasında katkı sağlamak ve yeni projeler geliştirmek istiyorum
 
@@ -51,6 +51,7 @@
     <img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="100">
     <img src="https://repository-images.githubusercontent.com/149085612/76e31b00-782c-11e9-8fdc-eec6e93d055b" width="150">
     <img src="https://cdn.worldvectorlogo.com/logos/blender-2.svg" width="100">
+    <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" width="100">
 </div>
 
 <br clear="both"/>
@@ -137,7 +138,7 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&height=50&lines=Profilimi+ziyaret+etti%C4%9Fin+i%C3%A7in+te%C5%9Fekk%C3%BCrler!+%F0%9F%98%8A;Hadi+ba%C4%9Flanal%C4%B1m+ve+harika+bir+%C5%9Feyler+in%C5%9Fa+edelim!+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&height=50&lines=Profilimi+ziyaret+ettiğiniz+için+teşekkürler!+%F0%9F%98%8A;Hadi+bağlanalım+ve+harika+bir+şeyler+inşa+edelim!+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <div align="center">
